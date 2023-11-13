@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programs\\UE5\\VRMeetingRoom\\VRMeetingRoom\\Source\\VRMeetingRoom\\VRMeetingRoom.Build.cs",
+		"D:\\Programs\\UE5\\VRMeetingRoom\\VRMeetingRoom\\Source\\VRMeetingRoom.Target.cs",
+		"D:\\Programs\\UE5\\VRMeetingRoom\\VRMeetingRoom\\Source\\VRMeetingRoomEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

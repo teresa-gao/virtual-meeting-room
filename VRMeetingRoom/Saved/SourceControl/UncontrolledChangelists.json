@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Programs/UE5/VRMeetingRoom/VRMeetingRoom/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Programs/UE5/VRMeetingRoom/VRMeetingRoom/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Programs/UE5/VRMeetingRoom/VRMeetingRoom/Content/VRTemplate/Maps/OfflineMap.umap",
+				"D:/Programs/UE5/VRMeetingRoom/VRMeetingRoom/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/Programs/UE5/VRMeetingRoom/VRMeetingRoom/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
+				"D:/Programs/UE5/VRMeetingRoom/VRMeetingRoom/Content/VRTemplate/Blueprints/VRPawn.uasset"
+			]
+		}
+	]
+}
