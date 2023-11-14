@@ -46,7 +46,7 @@ VRMeetingRoom/SourceArt/**/*.png
 VRMeetingRoom/SourceArt/**/*.tga
 
 # Binary Files
-VRMeetingRoom/Binaries/*
+VRMeetingRoom/Binaries/
 VRMeetingRoom/Plugins/*/Binaries/*
 
 # Builds
@@ -67,8 +67,8 @@ VRMeetingRoom/*_BuiltData.uasset
 VRMeetingRoom/Saved/*
 
 # Compiled source files for the engine to use
-VRMeetingRoom/Intermediate/*
-VRMeetingRoom/Plugins/*/Intermediate/*
+VRMeetingRoom/Intermediate/
+VRMeetingRoom/Plugins/*/Intermediate/
 
 # Cache files for the editor to use
-VRMeetingRoom/DerivedDataCache/*
+VRMeetingRoom/DerivedDataCache/
