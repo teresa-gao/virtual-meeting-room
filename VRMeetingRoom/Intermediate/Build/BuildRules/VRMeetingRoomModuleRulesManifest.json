@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Programs\\UE5\\VRMeetingRoom\\VRMeetingRoom\\Source\\VRMeetingRoom\\VRMeetingRoom.Build.cs",
-		"D:\\Programs\\UE5\\VRMeetingRoom\\VRMeetingRoom\\Source\\VRMeetingRoom.Target.cs",
-		"D:\\Programs\\UE5\\VRMeetingRoom\\VRMeetingRoom\\Source\\VRMeetingRoomEditor.Target.cs"
+		"C:\\Users\\naduh\\Trinity_College_Dublin\\virtual-meeting-room\\VRMeetingRoom\\Source\\VRMeetingRoom\\VRMeetingRoom.Build.cs",
+		"C:\\Users\\naduh\\Trinity_College_Dublin\\virtual-meeting-room\\VRMeetingRoom\\Source\\VRMeetingRoom.Target.cs",
+		"C:\\Users\\naduh\\Trinity_College_Dublin\\virtual-meeting-room\\VRMeetingRoom\\Source\\VRMeetingRoomEditor.Target.cs"
 	],
 	"EngineVersion": "5.2.1"
 }

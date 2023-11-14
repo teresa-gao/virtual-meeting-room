@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "VRMeetingRoom",
-			"Path": "D:\\Programs\\UE5\\VRMeetingRoom\\VRMeetingRoom\\Source\\VRMeetingRoom.Target.cs",
+			"Path": "C:\\Users\\naduh\\Trinity_College_Dublin\\virtual-meeting-room\\VRMeetingRoom\\Source\\VRMeetingRoom.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "VRMeetingRoomEditor",
-			"Path": "D:\\Programs\\UE5\\VRMeetingRoom\\VRMeetingRoom\\Source\\VRMeetingRoomEditor.Target.cs",
+			"Path": "C:\\Users\\naduh\\Trinity_College_Dublin\\virtual-meeting-room\\VRMeetingRoom\\Source\\VRMeetingRoomEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
