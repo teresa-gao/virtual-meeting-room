@@ -72,3 +72,5 @@ VRMeetingRoom/Plugins/*/Intermediate/
 
 # Cache files for the editor to use
 VRMeetingRoom/DerivedDataCache/
+
+VRMeetingRoom/Build/Android/
